@@ -1,0 +1,3 @@
+symfony_bunq:
+    resource: "@JorijnSymfonyBunqBundle/Resources/config/routing.yml"
+    prefix:   /
