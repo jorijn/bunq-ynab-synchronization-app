@@ -26,3 +26,8 @@ parameters:
     jorijn_symfony_bunq.allowed_ips: ~
     jorijn_ynab_bunq_connector.api_key: ~
     jorijn_ynab_bunq_connector.connections: ~
+
+    # HTTP config
+    router.request_context.host: yourdomain.tld
+    router.request_context.scheme: https
+    router.request_context.base_url: /sub/directory
