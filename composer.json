@@ -20,9 +20,9 @@
         ]
     },
     "require": {
-        "php": ">=7",
+        "php": ">=7.1",
         "incenteev/composer-parameter-handler": "^2.0",
-        "jorijn/ynab-bunq-connector-bundle": "^0.1.0",
+        "jorijn/ynab-bunq-connector-bundle": "1.0.*",
         "sensio/distribution-bundle": "^5.0.19",
         "sensio/framework-extra-bundle": "^5.0.0",
         "symfony/monolog-bundle": "^3.1.0",
